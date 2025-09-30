@@ -412,7 +412,7 @@ var scenes = {
       top: null,
       bottom: null,
       right: "scen22",
-      left: "scene41"
+      left: "scene42"
     }
  },
  "scene24": {
@@ -750,10 +750,10 @@ var scenes = {
     },
     hotspots: {
       front: "scene41",
-      back: null, 
+      back: "scene43", 
       top: null,
       bottom: null,
-      right: "scene24",
+      right: "scene23",
       left: "scene72"
     }
  },
@@ -767,8 +767,8 @@ var scenes = {
       negz: "img/scene43/negz.jpg" 
     },
     hotspots: {
-      front: "scene44",
-      back: "scene38", 
+      front: "scene42",
+      back: null, 
       top: null,
       bottom: null,
       right: null,
