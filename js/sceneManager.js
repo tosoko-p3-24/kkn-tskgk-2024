@@ -246,7 +246,7 @@ var scenes = {
     },
     hotspots: {
       front: null,
-      back: "scene49", 
+      back: null, 
       top: null,
       bottom: null,
       right: "scene15",
@@ -340,7 +340,7 @@ var scenes = {
       top: null,
       bottom: null,
       right: null,
-      left: "scene56"
+      left: "scene55"
     }
  },
  "scene20": {
@@ -376,7 +376,7 @@ var scenes = {
       top: null,
       bottom: null,
       right: null,
-      left: "scene62"
+      left: "scene621
     }
  },
  "scene22": {
@@ -390,11 +390,11 @@ var scenes = {
     },
     hotspots: {
       front: "scene21",
-      back: "scene24", 
+      back: "scene23", 
       top: null,
       bottom: null,
       right: null,
-      left: "scene23"
+      left: null
     }
  },
  "scene23": {
@@ -408,7 +408,7 @@ var scenes = {
     },
     hotspots: {
       front: null,
-      back: null, 
+      back: "scene24", 
       top: null,
       bottom: null,
       right: "scen22",
@@ -425,12 +425,12 @@ var scenes = {
       negz: "img/scene24/negz.jpg" 
     },
     hotspots: {
-      front: "scene22",
+      front: "scene23",
       back: "scene30", 
       top: null,
       bottom: null,
       right: null,
-      left: "scene42"
+      left: "scene43"
     }
  },
  "scene25": {
@@ -516,7 +516,7 @@ var scenes = {
     },
     hotspots: {
       front: null,
-      back: null, 
+      back: "scene28", 
       top: null,
       bottom: null,
       right: null,
