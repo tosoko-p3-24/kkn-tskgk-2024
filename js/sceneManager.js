@@ -65,7 +65,7 @@ var scenes = {
       negz: "img/scene4/negz.jpg" 
     },
     hotspots: {
-      front: "scene65",
+      front: null,
       back: null, 
       top: null,
       bottom: null,
