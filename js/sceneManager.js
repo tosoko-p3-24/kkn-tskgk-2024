@@ -538,7 +538,7 @@ var scenes = {
       top: null,
       bottom: null,
       right: "scene29",
-      left: null
+      left: "scene31"
     }
  },
  "scene31": {
@@ -555,7 +555,7 @@ var scenes = {
       back: "scene2", 
       top: null,
       bottom: null,
-      right: null,
+      right: "scene30",
       left: "scene32"
     }
  },
