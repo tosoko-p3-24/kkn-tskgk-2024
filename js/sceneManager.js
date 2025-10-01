@@ -411,7 +411,7 @@ var scenes = {
       back: "scene24", 
       top: null,
       bottom: null,
-      right: "scen22",
+      right: "scene22",
       left: "scene42"
     }
  },
