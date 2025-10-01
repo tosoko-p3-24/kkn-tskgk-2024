@@ -642,7 +642,7 @@ var scenes = {
     },
     hotspots: {
       front: null,
-      back: null, 
+      back: "scene35", 
       top: null,
       bottom: null,
       right: "scene37",
