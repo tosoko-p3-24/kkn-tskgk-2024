@@ -1308,7 +1308,7 @@ var scenes = {
     },
     hotspots: {
       front: "scene38",
-      back: null, 
+      back: "k_scene 5", 
       top: null,
       bottom: null,
       right: "scene72",
