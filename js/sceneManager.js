@@ -429,7 +429,7 @@ var scenes = {
       back: "scene30", 
       top: null,
       bottom: null,
-      right: null,
+      right: "k_scene 51",
       left: "scene43"
     }
  },
@@ -1308,7 +1308,7 @@ var scenes = {
     },
     hotspots: {
       front: "scene38",
-      back: "k_scene 5", 
+      back: "k_scene 6", 
       top: null,
       bottom: null,
       right: "scene72",
@@ -1380,7 +1380,7 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  null,
+      back:  "scene31",
       top:   null,
       bottom:null,
       right: "k_scene 5",
@@ -1397,7 +1397,7 @@ var scenes = {
       negz: "img/k_scene 5/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 7",
+      front: null,
       back:  null,
       top:   null,
       bottom:null,
@@ -1415,9 +1415,9 @@ var scenes = {
       negz: "img/k_scene 6/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 30", 
+      front: "scene73", 
       back:  null,
-      top:   null,
+      top:   "k_scene 52",
       bottom:null,
       right: "k_scene 10",
       left:  "k_scene 5"
@@ -1433,8 +1433,8 @@ var scenes = {
       negz: "img/k_scene 7/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 9", 
-      back:  "k_scene 6",
+      front: null, 
+      back:  null,
       top:   null,
       bottom:null,
       right: null,
@@ -1452,7 +1452,7 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  "k_scene 9",
+      back:  null,
       top:   null,
       bottom:null,
       right: null,
@@ -1469,8 +1469,8 @@ var scenes = {
       negz: "img/k_scene 9/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 8", 
-      back:  "k_scene 7",
+      front: null, 
+      back:  null,
       top:   null,
       bottom:null,
       right: null,
@@ -1559,9 +1559,9 @@ var scenes = {
       negz: "img/k_scene 14/negz.jpg" 
     },
     hotspots: {
-      front: null, 
+      front: "scene43, 
       back:  null,
-      top:   null,
+      top:   "k_scene 17",
       bottom:null,
       right: "k_scene 15",
       left:  "k_scene 13"
@@ -1596,7 +1596,7 @@ var scenes = {
     },
     hotspots: {
       front: "k_scene 13",
-      back:  "k_scene 17",
+      back:  null,
       top:   null,
       bottom:null,
       right: null,
@@ -1613,10 +1613,10 @@ var scenes = {
       negz: "img/k_scene 17/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 18",
-      back:  "k_scene 16",
-      top:   null,
-      bottom:null,
+      front: null,
+      back:  null,
+      top:   "k_scene 18",
+      bottom:"k_scene 14",
       right: null,
       left:  null
     }
@@ -1632,9 +1632,9 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  "k_scene 17",
-      top:   null,
-      bottom:null,
+      back:  null,
+      top:   "k_scene 41",
+      bottom:"k_scene 17",
       right: "k_scene 19",
       left:  "k_scene 20"
     }
@@ -1757,10 +1757,10 @@ var scenes = {
       negz: "img/k_scene 26/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 30", 
+      front: null, 
       back:  null,
-      top:   null,
-      bottom:null,
+      top:   "k_scene 30",
+      bottom:"k_scene 52",
       right: "k_scene 25",
       left:  "k_scene 27"
     }
@@ -1775,7 +1775,7 @@ var scenes = {
       negz: "img/k_scene 27/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 30", 
+      front: null, 
       back:  null,
       top:   null,
       bottom:null,
@@ -1847,10 +1847,10 @@ var scenes = {
       negz: "img/k_scene 30/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 31", 
-      back:  "k_scene 26",
-      top:   null,
-      bottom:null,
+      front: null, 
+      back:  null,
+      top:   "k_scene 31",
+      bottom:"k_scene 26",
       right: null,
       left:  null
     }
@@ -1865,10 +1865,10 @@ var scenes = {
       negz: "img/k_scene 31/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 30", 
+      front: null, 
       back:  null,
       top:   null,
-      bottom:null,
+      bottom:"k_scene 30",
       right: "k_scene 35",
       left:  "k_scene 32"
     }
@@ -2028,9 +2028,9 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  "k_scene 41",
+      back:  null,
       top:   null,
-      bottom:null,
+      bottom:"k_scene 41",
       right: "k_scene 42",
       left:  "k_scene 39"
     }
@@ -2117,11 +2117,11 @@ var scenes = {
       negz: "img/k_scene 45/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 46", 
+      front: null, 
       back:  "k_scene 43",
       top:   null,
       bottom:null,
-      right: null,
+      right: "k_scene 46",
       left:  null
     }
   },
@@ -2136,10 +2136,10 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  "k_scene 47",
-      top:   null,
-      bottom:null,
-      right: "k_scene 49",
+      back:  null,
+      top:   "k_scene 45",
+      bottom:"k_scene 47",
+      right: null,
       left:  null
     }
   },
@@ -2153,11 +2153,11 @@ var scenes = {
       negz: "img/k_scene 47/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 46", 
-      back:  null,
-      top:   null,
-      bottom:null,
-      right: "k_scene 48",
+      front: null, 
+      back:  "k_scene 48",
+      top:   "k_scene 46",
+      bottom:"k_scene 50",
+      right: null,
       left:  null
     }
   },
@@ -2175,7 +2175,7 @@ var scenes = {
       back:  null,
       top:   null,
       bottom:null,
-      right: null,
+      right: "k_scene 49",
       left:  "k_scene 47"
     }
   },
@@ -2189,8 +2189,8 @@ var scenes = {
       negz: "img/k_scene 49/negz.jpg" 
     },
     hotspots: {
-      front: "k_scene 50", 
-      back:  "k_scene 46",
+      front: null, 
+      back:  "k_scene 47",
       top:   null,
       bottom:null,
       right: null,
@@ -2209,13 +2209,49 @@ var scenes = {
     hotspots: {
       front: null, 
       back:  null,
-      top:   null,
-      bottom:null,
-      right: "k_scene 49",
+      top:   "k_scene 47",
+      bottom:"k_scene 51",
+      right: null,
       left:  null
     }
-  }
-};
+},
+ "k_scene 51": {
+    textures: {
+      posx: "img/k_scene 51/posx.jpg",
+      negx: "img/k_scene 51/negx.jpg",
+      posy: "img/k_scene 51/posy.jpg",
+      negy: "img/k_scene 51/negy.jpg",
+      posz: "img/k_scene 51/posz.jpg",
+      negz: "img/k_scene 51/negz.jpg" 
+    },
+    hotspots: {
+      front: null, 
+      back:  null,
+      top:   null,
+      bottom:null,
+      right: "k_scene 50",
+      left:  "scene24"
+    }
+  },
+ "k_scene 52": {
+    textures: {
+      posx: "img/k_scene 52/posx.jpg",
+      negx: "img/k_scene 52/negx.jpg",
+      posy: "img/k_scene 52/posy.jpg",
+      negy: "img/k_scene 52/negy.jpg",
+      posz: "img/k_scene 52/posz.jpg",
+      negz: "img/k_scene 52/negz.jpg" 
+    },
+    hotspots: {
+      front: null, 
+      back:  null,
+      top:   "k_scene 26",
+      bottom:"k_scene 6",
+      right: null,
+      left:  null
+    }
+   }
+  };
 
 // SceneManager オブジェクトはシーン切替を管理
 var SceneManager = {
