@@ -2238,7 +2238,7 @@ var scenes = {
       posx: "img/k_scene 52/posx.jpg",
       negx: "img/k_scene 52/negx.jpg",
       posy: "img/k_scene 52/posy.jpg",
-      negy: "img/k_scene 52/negy.jpg",
+      negy: "img/k_scene 30/negy.jpg",
       posz: "img/k_scene 52/posz.jpg",
       negz: "img/k_scene 52/negz.jpg" 
     },
