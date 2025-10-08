@@ -2176,13 +2176,13 @@ var scenes = {
       top:   null,
       bottom:null,
       right: "k_scene 49",
-      left:  "k_scene 47"
+      left:  "k_scene 48"
     }
   },
  "k_scene 49": {
     textures: {
-      posx: "img/k_scene 49/posx.jpg",
-      negx: "img/k_scene 49/negx.jpg",
+      posx: "img/k_scene 49/negx.jpg",
+      negx: "img/k_scene 49/posx.jpg",
       posy: "img/k_scene 49/posy.jpg",
       negy: "img/k_scene 49/negy.jpg",
       posz: "img/k_scene 49/posz.jpg",
@@ -2190,11 +2190,11 @@ var scenes = {
     },
     hotspots: {
       front: null, 
-      back:  "k_scene 47",
+      back:  null,
       top:   null,
       bottom:null,
       right: null,
-      left:  null
+      left:  "k_scene 47"
     }
   },
   "k_scene 50": {
