@@ -1559,7 +1559,7 @@ var scenes = {
       negz: "img/k_scene 14/negz.jpg" 
     },
     hotspots: {
-      front: "scene43, 
+      front: "scene43", 
       back:  null,
       top:   "k_scene 17",
       bottom:null,
